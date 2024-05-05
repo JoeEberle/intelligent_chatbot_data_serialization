@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Intelligent Chatbot Data Serialization  - Chatbot instantly scrapes reads any relational datastore, excel spreadsheet and segmentizes it. Uses NLP to for paragraphs and answer in natural language.  
 Chatbot instantly scrapes reads any relational datastore, excel spreadsheet and segmentizes it. Uses NLP to for paragraphs and answer in natural language.  
 
@@ -9,8 +11,6 @@ Welcome to the solution **Intelligent Chatbot Data Serialization ** - an example
 Chatbot instantly scrapes reads any relational datastore, excel spreadsheet and segmentizes it. Uses NLP to for paragraphs and answer in natural language.  
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
